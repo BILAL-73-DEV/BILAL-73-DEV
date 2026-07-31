@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF"/>
 </p>
 
-I am a full stack developer focused on building scalable, production-style web applications , desktop applications , mobile applications using modern technologies and proper software engineering practices.
+I am a full Software Engineer focused on building scalable, production-style web applications , desktop applications , mobile applications using modern technologies and proper software engineering practices.
 
 ---
 
